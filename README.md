@@ -1,7 +1,7 @@
 # Hi, I'm Michael 👋
 
 - 🔭 I’m currently working on my bachelor thesis
-- 🌱 I’m currently learning ABAP
+- 🌱 I’m currently learning Python
 - 🎯 2020 Goal: working on open source projects
 - 💬 Ask me about my coffee addiction ☕ ;)
 
