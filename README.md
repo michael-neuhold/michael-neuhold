@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on my bachelor thesis
 - 🌱 I’m currently learning Python
-- 🎯 2020 Goal: working on open source projects
+- 🎯 2021 Goal: BSc in Software Engineering
 - 💬 Ask me about my coffee addiction ☕ ;)
 
 # contact me
