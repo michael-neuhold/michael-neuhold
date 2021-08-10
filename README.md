@@ -1,8 +1,8 @@
 # Hi, I'm Michael 👋
 
-- 🔭 I’m currently working on my bachelor thesis
-- 🌱 I’m currently learning Python
-- 🎯 2021 Goal: BSc in Software Engineering
+- 🔭 Working at dynatrace
+- 🌱 I’m currently learning dart/flutter
+- 🎯 2021 Goal: BSc in Software Engineering ✅
 - 💬 Ask me about my coffee addiction ☕ ;)
 
 # contact me
