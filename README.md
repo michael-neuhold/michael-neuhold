@@ -1,7 +1,7 @@
 # Hi, I'm Michael 👋
 
 - 🔭 Working at dynatrace
-- 🌱 I’m currently learning dart/flutter
+- 🌱 I’m currently learning scala 📈
 - 🎯 2021 Goal: BSc in Software Engineering ✅
 - 💬 Ask me about my coffee addiction ☕ ;)
 
