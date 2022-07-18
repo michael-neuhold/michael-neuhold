@@ -1,8 +1,8 @@
 # Hi, I'm Michael 👋
 
 - 🔭 Working at dynatrace
-- 🌱 I’m currently learning scala 📈
-- 🎯 2021 Goal: BSc in Software Engineering ✅
+- 🌱 I’m currently working on my master thesis
+- 🎯 2023 Goal: MSc in Software Engineering
 - 💬 Ask me about my coffee addiction ☕ ;)
 
 # contact me
