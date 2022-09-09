@@ -5,6 +5,8 @@
 - 🎯 2023 Goal: MSc in Software Engineering
 - 💬 Ask me about my coffee addiction ☕ ;)
 
+![commit snake](./github-contribution-grid-snake.svg)
+
 # contact me
 Email:    michael@neuhold.dev </br>
 Homepage: https://www.michael-neuhold.at </br>
