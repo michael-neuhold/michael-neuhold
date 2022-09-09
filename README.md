@@ -1,7 +1,7 @@
 # Hi, I'm Michael 👋
 
 - 🔭 Working at dynatrace
-- 🌱 I’m currently working on my master thesis
+- 🌱 I’m currently working on my master thesis (decomposing monolithic architectures)
 - 🎯 2023 Goal: MSc in Software Engineering
 - 💬 Ask me about my coffee addiction ☕ ;)
 
