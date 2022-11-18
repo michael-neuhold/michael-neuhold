@@ -9,7 +9,8 @@ I am a tech- enthusiast with a special faible for software development and softw
 
 ![commit snake](./github-contribution-grid-snake.svg)
 
-# contact me
+<img src="./Michael-Neuhold-small.svg" alt="drawing" style="width:200px;"/>
+
 Email:    michael@neuhold.dev </br>
 Homepage: https://www.michael-neuhold.at </br>
 LinkedIn: https://www.linkedin.com/in/michael-neuhold-517312157/ </br>
