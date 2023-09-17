@@ -2,9 +2,9 @@
 
 I am a tech- enthusiast with a special faible for software development and software architecture. Working on projects and learning new programming languages has become one of my passions in the last 10 years 💻 🚀. 
 
-- 🔭 Working at dynatrace
-- 🌱 I’m currently working on my master thesis (decomposing monolithic architectures)
-- 🎯 2023 Goal: MSc in Software Engineering
+- 🔭 Self-employeed software engineer
+- 🌱 I’m currently working on my master thesis (decomposing monolithic architectures) ✅
+- 🎯 2023 Goal: MSc in Software Engineering ✅
 - 💬 Ask me about my coffee addiction ☕ ;)
 
 ![commit snake](./github-contribution-grid-snake.svg)
