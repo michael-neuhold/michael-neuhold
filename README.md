@@ -4,7 +4,6 @@ I am a tech- enthusiast with a special faible for software development and softw
 
 - 🔭 Self-employeed software engineer
 - 🌱 I’m currently working on my master thesis (decomposing monolithic architectures) ✅
-- 🎯 2023 Goal: MSc in Software Engineering ✅
 - 💬 Ask me about my coffee addiction ☕ ;)
 
 ![commit snake](./github-contribution-grid-snake.svg)
